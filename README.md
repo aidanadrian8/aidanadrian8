@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aidanadrian8
-- 👀 I’m interested in Web Development, and would love to learn more about Game Design for personal projects.
-- 🌱 I’m currently learning C#, Ruby, HTML/CSS, SQL
-- 💞️ I’m looking to collaborate on anything I can learn from!
+- 👀 I’m interested in Web Development and have been working on my game Wordsack!
+- 🌱 I’m currently working with Ruby, C#, Python, Vue, JS
 - 📫 How to reach me email: aidanadrian8@gmail.com
 
 <!---
